@@ -110,7 +110,7 @@ i {
 
 @keyframes messi {
     from {
-        transform: translateX(100px);
+        transform: translateX(200px);
         opacity: 0.2;
     }
 
